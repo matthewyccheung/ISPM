@@ -4,4 +4,4 @@ The Steepest Descent (SD), Conjugate Gradient (CG), Minimal Residual (MR) and Re
 
 # Repository Contents
 
-The repository contains the implementations of the Arnoldi, Conjugate Gradient (CG), Restarted-GMRES, Minimum Residual (MR) and Steepest Descent (SD) Methods and the scripts to run the computations on the test matrices from the [University of Florida Sparse Matrix Collection](https://www.cise.ufl.edu/research/sparse/matrices/list_by_id.html)
+The repository contains the implementations of the Arnoldi, Conjugate Gradient (CG), Restarted-GMRES, Minimum Residual (MR) and Steepest Descent (SD) Methods and the scripts to run the computations on the test matrices from the [University of Florida Sparse Matrix Collection](https://www.cise.ufl.edu/research/sparse/matrices/list_by_id.html). It also contains a report summarizing all the findings.
